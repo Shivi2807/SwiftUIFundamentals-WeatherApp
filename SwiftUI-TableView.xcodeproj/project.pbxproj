@@ -13,6 +13,8 @@
 		0FAB1B1527EB04F600503489 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB1B0327EB04F500503489 /* ContentView.swift */; };
 		0FAB1B1627EB04F600503489 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FAB1B0427EB04F600503489 /* Assets.xcassets */; };
 		0FAB1B1727EB04F600503489 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FAB1B0427EB04F600503489 /* Assets.xcassets */; };
+		0FAB1B2127EB0CF500503489 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB1B2027EB0CF500503489 /* Video.swift */; };
+		0FAB1B2227EB0CF500503489 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB1B2027EB0CF500503489 /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		0FAB1B0927EB04F600503489 /* SwiftUI-TableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-TableView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FAB1B0F27EB04F600503489 /* SwiftUI-TableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-TableView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FAB1B1127EB04F600503489 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		0FAB1B2027EB0CF500503489 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,7 @@
 				0FAB1B0227EB04F500503489 /* SwiftUI_TableViewApp.swift */,
 				0FAB1B0327EB04F500503489 /* ContentView.swift */,
 				0FAB1B0427EB04F600503489 /* Assets.xcassets */,
+				0FAB1B2027EB0CF500503489 /* Video.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -177,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FAB1B1427EB04F600503489 /* ContentView.swift in Sources */,
+				0FAB1B2127EB0CF500503489 /* Video.swift in Sources */,
 				0FAB1B1227EB04F600503489 /* SwiftUI_TableViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -186,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FAB1B1527EB04F600503489 /* ContentView.swift in Sources */,
+				0FAB1B2227EB0CF500503489 /* Video.swift in Sources */,
 				0FAB1B1327EB04F600503489 /* SwiftUI_TableViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
